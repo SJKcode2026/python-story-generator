@@ -25,5 +25,9 @@ A beginner Python project that generates a fun story based on user inputs. This 
 python storygenerator.py
 ```
 
+## Sample Output
+
+![Story Generator Output](storygenerator.png)
+
 ## Author
 Sajith John Kaleekkal
