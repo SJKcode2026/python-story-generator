@@ -27,7 +27,7 @@ python storygenerator.py
 
 ## Sample Output
 
-![Story Generator Output](Story Generator.png)
+![Story Generator Output](storygenerator.png)
 
 ## Author
 Sajith John Kaleekkal
